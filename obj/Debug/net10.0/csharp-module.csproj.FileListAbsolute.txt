@@ -1,0 +1,14 @@
+E:\LabWork\csharp-module\bin\Debug\net10.0\csharp-module.exe
+E:\LabWork\csharp-module\bin\Debug\net10.0\csharp-module.deps.json
+E:\LabWork\csharp-module\bin\Debug\net10.0\csharp-module.runtimeconfig.json
+E:\LabWork\csharp-module\bin\Debug\net10.0\csharp-module.dll
+E:\LabWork\csharp-module\bin\Debug\net10.0\csharp-module.pdb
+E:\LabWork\csharp-module\obj\Debug\net10.0\csharp-module.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWork\csharp-module\obj\Debug\net10.0\csharp-module.AssemblyInfoInputs.cache
+E:\LabWork\csharp-module\obj\Debug\net10.0\csharp-module.AssemblyInfo.cs
+E:\LabWork\csharp-module\obj\Debug\net10.0\csharp-module.csproj.CoreCompileInputs.cache
+E:\LabWork\csharp-module\obj\Debug\net10.0\csharp-module.dll
+E:\LabWork\csharp-module\obj\Debug\net10.0\refint\csharp-module.dll
+E:\LabWork\csharp-module\obj\Debug\net10.0\csharp-module.pdb
+E:\LabWork\csharp-module\obj\Debug\net10.0\csharp-module.genruntimeconfig.cache
+E:\LabWork\csharp-module\obj\Debug\net10.0\ref\csharp-module.dll
